@@ -1,0 +1,12 @@
+{
+  "name": "node-term-size",
+  "version": "1.0.0",
+  "description": "C++ addon to get current terminal size",
+  "main": "script/terminal.js",
+  "author": "Giovanny Andres Gongora Granada",
+  "license": "MIT",
+  "gypfile": true,
+  "dependencies": {
+    "nan": "^1.7.0"
+  }
+}
